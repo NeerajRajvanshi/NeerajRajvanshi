@@ -1,4 +1,4 @@
-<img src="./software-developer-6521720_1280.jpg" width="700" height="500" style="object-fit: cover;" alt="profile Image">
+<img src="./software-developer-6521720_1280.jpg" width="400" alt="profile Image">
 
 <h1 >Hi 👋, I'm Neeraj Kumar</h1>
 <h3 >A passionate frontend developer from India</h3>
